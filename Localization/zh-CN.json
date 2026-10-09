@@ -1,0 +1,56 @@
+{
+  "buff.name": "癫狂灾瘟：法术已蓄能",
+  "buff.desc": "你施放的下一个法术将获得「强效法术」与「极效法术」超魔效果。该效果由「癫狂灾瘟」木棍赋予。",
+  "ready.bark": "癫狂灾瘟已蓄能！",
+  "ready.log": "癫狂灾瘟：你施放的下一个法术将附带强效与极效。",
+  "log.strict": "补丁「描述正确生效」已生效：本次施放 {0}，已把其它 {1} 个法术的计数清零。",
+
+  "ui.title": "癫狂灾瘟 · 超魔就绪提示",
+
+  "ui.lang": "界面语言",
+  "ui.lang.auto": "跟随游戏",
+  "ui.lang.zh": "中文",
+  "ui.lang.en": "English",
+
+  "ui.channel.icon": "状态图标",
+  "ui.channel.sound": "音效提示",
+  "ui.channel.fx": "视觉特效",
+  "ui.channel.log": "战斗日志与浮动文字",
+
+  "ui.sound.pick": "就绪音效",
+  "ui.fx.pick": "就绪光环",
+  "ui.preview": "试听",
+
+  "ui.patch.strict": "补丁：癫狂灾瘟描述正确生效",
+  "ui.patch.strict.desc": "癫狂灾瘟原版的实际判定并不要求「连续」：它会给每一种法术分别累计施放次数，只有休息才会清零。打上本补丁后，严格按武器描述生效——必须连续三次施放同一个法术，中途施放其它任何法术都会立即清零计数。（默认关闭）",
+
+  "ui.debug": "记录调试日志",
+  "ui.footer": "改动即时生效。",
+
+  "sound.Doom": "厄运",
+  "sound.DirgeOfDoom": "末日挽歌",
+  "sound.UnholyNimbus": "邪秽灵光",
+  "sound.NecromancyCone": "死灵锥",
+  "sound.NegativeEnergy": "负能量",
+  "sound.LichEruption": "巫妖爆发",
+  "sound.ChillTouch": "寒冰之触",
+  "sound.ExplosionOfRot": "腐爆",
+  "sound.AbyssalChains": "深渊锁链",
+  "sound.ProfaneHymn": "亵渎赞美诗",
+  "sound.ShamanHex": "萨满巫术",
+  "sound.BloodHeal": "鲜血治疗",
+  "sound.BoneShaker": "撼骨",
+  "sound.DisruptUndead": "驱散亡灵",
+  "sound.BloodMist": "血雾",
+
+  "fx.UnholyAura": "邪秽光环",
+  "fx.Spectre": "幽魂",
+  "fx.DweomerNecromancy": "死灵灵光",
+  "fx.DeathRealm": "死亡领域",
+  "fx.UnholyBlight": "邪秽枯萎",
+  "fx.DirgeOfDoom": "末日挽歌",
+  "fx.ShadowShield": "暗影护盾",
+  "fx.Fear": "恐惧",
+  "fx.GhostWraith": "幽灵怨魂",
+  "fx.WitchDeathCurse": "女巫死亡诅咒"
+}

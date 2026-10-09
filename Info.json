@@ -1,0 +1,10 @@
+{
+  "Id": "PlagueOfMadnessHint",
+  "DisplayName": "Plague of Madness - Metamagic Ready Hint",
+  "Author": "ToisnaLey",
+  "Version": "0.5.1",
+  "AssemblyName": "PlagueOfMadnessHint.dll",
+  "EntryMethod": "PlagueOfMadnessHint.Main.Load",
+  "Requirements": [],
+  "ManagerVersion": "0.27.0"
+}

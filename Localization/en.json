@@ -1,0 +1,56 @@
+{
+  "buff.name": "Plague of Madness: Spell Primed",
+  "buff.desc": "Your next spell will be affected by Empower Spell and Maximize Spell. This effect is granted by the Plague of Madness quarterstaff.",
+  "ready.bark": "Plague of Madness is primed!",
+  "ready.log": "Plague of Madness: your next spell will be Empowered and Maximized.",
+  "log.strict": "Patch \"accurate description\" fired: cast {0}; cleared the counters of {1} other spell(s).",
+
+  "ui.title": "Plague of Madness - Metamagic Ready Hint",
+
+  "ui.lang": "Language",
+  "ui.lang.auto": "Follow game",
+  "ui.lang.zh": "中文",
+  "ui.lang.en": "English",
+
+  "ui.channel.icon": "Status icon",
+  "ui.channel.sound": "Sound alert",
+  "ui.channel.fx": "Visual effect",
+  "ui.channel.log": "Combat log & floating text",
+
+  "ui.sound.pick": "Ready sound",
+  "ui.fx.pick": "Ready aura",
+  "ui.preview": "Preview",
+
+  "ui.patch.strict": "Patch: make the Plague of Madness description accurate",
+  "ui.patch.strict.desc": "By default Plague of Madness does not require the casts to be consecutive: it counts casts separately for each spell, and only a rest resets them. With this patch enabled the weapon behaves exactly as written - you must cast the same spell three times in a row, and casting any other spell resets the counter immediately. (Off by default.)",
+
+  "ui.debug": "Debug logging",
+  "ui.footer": "Changes apply instantly.",
+
+  "sound.Doom": "Doom",
+  "sound.DirgeOfDoom": "Dirge of Doom",
+  "sound.UnholyNimbus": "Unholy Nimbus",
+  "sound.NecromancyCone": "Necromancy Cone",
+  "sound.NegativeEnergy": "Negative Energy",
+  "sound.LichEruption": "Lich Eruption",
+  "sound.ChillTouch": "Chill Touch",
+  "sound.ExplosionOfRot": "Explosion of Rot",
+  "sound.AbyssalChains": "Abyssal Chains",
+  "sound.ProfaneHymn": "Profane Hymn",
+  "sound.ShamanHex": "Shaman Hex",
+  "sound.BloodHeal": "Blood Heal",
+  "sound.BoneShaker": "Bone Shaker",
+  "sound.DisruptUndead": "Disrupt Undead",
+  "sound.BloodMist": "Blood Mist",
+
+  "fx.UnholyAura": "Unholy Aura",
+  "fx.Spectre": "Spectre",
+  "fx.DweomerNecromancy": "Necromantic Dweomer",
+  "fx.DeathRealm": "Death Realm",
+  "fx.UnholyBlight": "Unholy Blight",
+  "fx.DirgeOfDoom": "Dirge of Doom",
+  "fx.ShadowShield": "Shadow Shield",
+  "fx.Fear": "Fear",
+  "fx.GhostWraith": "Ghost Wraith",
+  "fx.WitchDeathCurse": "Witch Death Curse"
+}
